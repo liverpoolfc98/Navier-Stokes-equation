@@ -1,2 +1,2 @@
-# Navier-Stokes-equations-Fourier-method
-The problem of calculating the convective motion of a fluid in a rectangular cavity during heating and modeling the occurrence of convective rolls and Benard cells
+# Уравнение Навье-Стокса, решение методом Фурье
+Решение задачи расчёта конвективного движенияжидкости в полости прямоугольного сечения при подогреве и моделирование возникновения конвективных валов и ячеек Бенара. С помощью метода Фурье была решена система ДУрЧП из уравнений Навье-Стокса и теплопроводности и построена gif-анимация эксперимента, визуализирующая изменения полей скоростей и температуры. Программа реализована на С++
